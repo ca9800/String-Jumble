@@ -44,7 +44,7 @@ wl = list(word)
 both = ''.join(list(reversed(wl)))
 
 #print
-print (" You entered ", '"',text,'".', "Now jumble it:")
+print (" You entered ", '"'+text+'".', "Now jumble it:")
 
 print (backwards)
 print (word)
